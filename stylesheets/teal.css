@@ -1,15 +1,5 @@
-body {
-  background-color: #fcfcfc;
-}
-#desk {
-  position: relative;
-  width: 100%;
-  height: 100vh;
-  padding: 1em;
-}
-.item {
-  position: absolute;
-}
+/* TEAL NOTEBOOK */
+
 .book--1 {
   height: 30em;
   width: 22em;
