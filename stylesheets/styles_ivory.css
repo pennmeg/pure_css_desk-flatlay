@@ -1,0 +1,220 @@
+/* IVORY Notebook */
+.book--2 {
+  height: 28em;
+  width: 20em;
+  top: 5%;
+  background-color: #fffaf0;
+  border-top-right-radius: .8em;
+  border-bottom-right-radius: .8em;
+  transform: rotate(330deg);
+}
+/* Gold Dots Base */
+.book--2__dot {
+  height: 1.5em;
+  width: 1.5em;
+  background-color: #D4B98E;
+  border-radius: 100%;
+}
+/* Elastic */
+.elastic--shadow {
+  height: 100%;
+  width: 1.4em;
+  right: 14%;
+  background-color: #e9e9e6; 
+}
+.book--2__elastic {
+  height: 100%;
+  width: 1em;
+  right: 15%;
+  background-color: #fffaf0; 
+}
+/* 1 Row of Dots */
+.dot--1a {
+  top: 2%;
+  left: 5%;
+}
+.dot--1b {
+  top: 2%;
+  left: 25%;
+}
+.dot--1c {
+  top: 2%;
+  left: 45%;
+}
+.dot--1d {
+  top: 2%;
+  left: 65%;
+}
+.dot--1e {
+  top: 2%;
+  left: 85%;
+}
+/* 2 Row of Dots */
+.dot--2a {
+  top: 12%;
+  left: 15%;
+}
+.dot--2b {
+  top: 12%;
+  left: 35%;
+}
+.dot--2c {
+  top: 12%;
+  left: 55%;
+}
+.dot--2d {
+  top: 12%;
+  left: 75%;
+}
+/* 3 Row of Dots */
+.dot--3a {
+  top: 22%;
+  left: 5%;
+}
+.dot--3b {
+  top: 22%;
+  left: 25%;
+}
+.dot--3c {
+  top: 22%;
+  left: 45%;
+}
+.dot--3d {
+  top: 22%;
+  left: 65%;
+}
+.dot--3e {
+  top: 22%;
+  left: 85%;
+}
+/* 4 Row of Dots */
+.dot--4a {
+  top: 32%;
+  left: 15%;
+}
+.dot--4b {
+  top: 32%;
+  left: 35%;
+}
+.dot--4c {
+  top: 32%;
+  left: 55%;
+}
+.dot--4d {
+  top: 32%;
+  left: 75%;
+}
+/* 5 Row of Dots */
+.dot--5a {
+  top: 42%;
+  left: 5%;
+}
+.dot--5b {
+  top: 42%;
+  left: 25%;
+}
+.dot--5c {
+  top: 42%;
+  left: 45%;
+}
+.dot--5d {
+  top: 42%;
+  left: 65%;
+}
+.dot--5e {
+  top: 42%;
+  left: 85%;
+}
+/* 6 Row of Dots */
+.dot--6a {
+  top: 52%;
+  left: 15%;
+}
+.dot--6b {
+  top: 52%;
+  left: 35%;
+}
+.dot--6c {
+  top: 52%;
+  left: 55%;
+}
+.dot--6d {
+  top: 52%;
+  left: 75%;
+}
+/* 7 Row of Dots */
+.dot--7a {
+  top: 62%;
+  left: 5%;
+}
+.dot--7b {
+  top: 62%;
+  left: 25%;
+}
+.dot--7c {
+  top: 62%;
+  left: 45%;
+}
+.dot--7d {
+  top: 62%;
+  left: 65%;
+}
+.dot--7e {
+  top: 62%;
+  left: 85%;
+}
+/* 8 Row of Dots */
+.dot--8a {
+  top: 72%;
+  left: 15%;
+}
+.dot--8b {
+  top: 72%;
+  left: 35%;
+}
+.dot--8c {
+  top: 72%;
+  left: 55%;
+}
+.dot--8d {
+  top: 72%;
+  left: 75%;
+}
+/* 9 Row of Dots */
+.dot--9a {
+  top: 82%;
+  left: 5%;
+}
+.dot--9b {
+  top: 82%;
+  left: 25%;
+}
+.dot--9c {
+  top: 82%;
+  left: 45%;
+}
+.dot--9d {
+  top: 82%;
+  left: 65%;
+}
+.dot--9e {
+  top: 82%;
+  left: 85%;
+}
+/* 10 Row of Dots */
+.dot--10a {
+  top: 92%;
+  left: 15%;
+}
+.dot--10b {
+  top: 92%;
+  left: 35%;
+}
+.dot--10c {
+  top: 92%;
+  left: 55%;
+}
+.dot--10d {
+  top: 92%;
+  left: 75%;
+}
