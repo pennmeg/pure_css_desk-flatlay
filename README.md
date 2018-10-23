@@ -1,6 +1,6 @@
 # Pure CSS Challenge: Laptop/Desk Flatlay 2.0
 
-![alt text](https://raw.githubusercontent.com/pennmeg/pure_css_desk-flatlay/pure_css_desk-flatlay.png)
+![Final Version:](pure_css_desk-flatlay.png)
 
 
 October 22, 2018
