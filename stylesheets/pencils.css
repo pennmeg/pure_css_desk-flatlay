@@ -1,0 +1,50 @@
+.pencil {
+  width: 0.75em;
+  height: 17em;
+}
+.pencil--1 {
+  top: 25%;
+  left: 55%;
+  background-color: #C6F4F8;
+  transform: rotate(15deg);
+}
+.pencil--2 {
+  top: 25%;
+  left: 55%;
+  background-color: #67DDEB;
+  transform: rotate(15deg);
+}
+.pencil--3 {
+  top: 25%;
+  left: 55%;
+  background-color: #C6F4F8;
+  transform: rotate(15deg);
+}
+.pencil--end {
+  width: 100%;
+  height: 2em;
+  background-color: #EECA4E;
+}
+.pencil--eraser {
+  width: 100%;
+  height: 0.75em;
+  top: -1%;
+  background-color: #F8B0E6;
+  border-radius: 3px 3px 0 0;
+}
+.pencil--tip {
+  width: 100%;
+  height: 2em;
+  bottom: -10%;
+  background-color: #DACAAA;
+  -webkit-clip-path: polygon(100% 0, 0 0, 51% 100%);
+  clip-path: polygon(100% 0, 0 0, 51% 100%);
+}
+.pencil--lead {
+  width: 100%;
+  height: 0.5em;
+  bottom: 0%;
+  background-color: black;
+  -webkit-clip-path: polygon(100% 0, 0 0, 51% 100%);
+  clip-path: polygon(100% 0, 0 0, 51% 100%);
+}
