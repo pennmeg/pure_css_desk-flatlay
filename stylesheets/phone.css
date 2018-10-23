@@ -2,12 +2,12 @@
 .phone {
   width: 8em;
   height: 16em;
-  top: 20%;
-  left: 10%;
+  top: 30%;
+  left: 7%;
   background-color: white;
   border: solid 2px #e9e9e6;
   border-radius: 1em;
-  transform: rotate(355deg);
+  transform: rotate(352deg);
 }
 .phone--speaker {
   background-color: black;

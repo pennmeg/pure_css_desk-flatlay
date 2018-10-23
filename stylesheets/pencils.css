@@ -1,22 +1,24 @@
+.pencils {
+  top: 25%;
+  left: 38%;
+}
 .pencil {
   width: 0.75em;
   height: 17em;
 }
 .pencil--1 {
-  top: 25%;
-  left: 55%;
+  margin-top: 3em;
   background-color: #C6F4F8;
   transform: rotate(15deg);
 }
 .pencil--2 {
-  top: 15%;
-  left: 62%;
+  margin-left: 3em; 
   background-color: #67DDEB;
   transform: rotate(20deg);
 }
 .pencil--3 {
-  top: 35%;
-  left: 61%;
+  margin-left: 4em; 
+  margin-top: 6em;
   background-color: #C6F4F8;
   transform: rotate(35deg);
 }
