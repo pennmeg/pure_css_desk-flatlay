@@ -1,6 +1,6 @@
 # Pure CSS Challenge: Laptop/Desk Flatlay 2.0
 
-![Final Version:](pure_css_desk-flatlay.png)
+![Final Version:](pure_css_desk-flatlay-FINAL.png)
 
 
 October 22, 2018
