@@ -1,5 +1,8 @@
 # Pure CSS Challenge: Laptop/Desk Flatlay 2.0
 
+![Final Version:](pure_css_desk-flatlay.png)
+
+
 October 22, 2018
 
 Inspiration from Styled By Miss Poppy stock photo.
