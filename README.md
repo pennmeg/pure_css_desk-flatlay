@@ -2,7 +2,7 @@
 
 ![Final Version:](pure_css_desk-flatlay-FINAL.png)
 
-*October 22, 2018* | Inspiration from Styled By Miss Poppy stock photo.
+*October 22, 2018*   |    Inspiration from Styled By Miss Poppy stock photo.
 
 Laptop/Desk Flatlay 1.0: https://github.com/pennmeg/pure_css_laptop
 
